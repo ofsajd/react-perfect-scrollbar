@@ -1,6 +1,6 @@
 {
-  "name": "react-perfect-scrollbar",
-  "version": "1.5.8",
+  "name": "@ofsajd/react-perfect-scrollbar",
+  "version": "1.0.0",
   "description": "A react wrapper for perfect-scrollbar",
   "main": "lib/index.js",
   "typings": "lib/index.d.ts",
@@ -18,7 +18,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/goldenyz/react-perfect-scrollbar.git"
+    "url": "https://github.com/ofsajd/react-perfect-scrollbar.git"
   },
   "keywords": [
     "react",
@@ -31,14 +31,13 @@
     "lib",
     "src"
   ],
-  "author": "Allen Yang",
   "license": "MIT",
   "peerDependencies": {
     "react": ">=16.3.3",
     "react-dom": ">=16.3.3"
   },
   "dependencies": {
-    "perfect-scrollbar": "^1.5.0",
+    "@ofsajd/perfect-scrollbar": "1.0.0",
     "prop-types": "^15.6.1"
   },
   "devDependencies": {
@@ -61,7 +60,7 @@
     "eslint-plugin-react": "^7.7.0",
     "extract-text-webpack-plugin": "^3.0.2",
     "file-loader": "^1.1.11",
-    "node-sass": "^4.13.1",
+    "node-sass": "9.0.0",
     "postcss-loader": "^2.1.3",
     "react": "^16.3.1",
     "react-dom": "^16.3.1",
@@ -72,7 +71,7 @@
     "webpack-dev-server": "^2.11.5"
   },
   "bugs": {
-    "url": "https://github.com/goldenyz/react-perfect-scrollbar/issues"
+    "url": "https://github.com/ofsajd/react-perfect-scrollbar/issues"
   },
-  "homepage": "https://github.com/goldenyz/react-perfect-scrollbar"
+  "homepage": "https://github.com/ofsajd/react-perfect-scrollbar"
 }
